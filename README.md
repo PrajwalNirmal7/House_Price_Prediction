@@ -1,1 +1,1 @@
-# House_Price_Prediction
+House Price Prediction System uses machine learning to estimate property prices based on various factors. It implements multiple regression models, including Linear Regression, Lasso, Ridge, Decision Tree, Random Forest, and Support Vector Regression to improve prediction accuracy. Built with Python, the system provides a simple web interface for users to analyze housing data, visualize trends, and efficiently predict prices, making it useful for real estate insights.
